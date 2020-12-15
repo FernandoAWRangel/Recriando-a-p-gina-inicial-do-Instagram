@@ -1,6 +1,3 @@
-# Recriando-a-p-gina-inicial-do-Instagram
-Recriando a página inicial do Instagram (HTML5, CSS3, CSS3, Adobe Fireworks CS6 )
-
 Olá pessoal, tudo bem.
 
 Nesta etapa do Decola Dev Avanade 2021 refizemos a página do instagram 
@@ -12,3 +9,5 @@ Nesse projeo, além de aprimorar meus conhecimentos em HTML5 e CSS3 utilifando F
 tive a oportunidade de utilizar um pouco de conhecimento que possuo em Adobe
 "Fireworks" CS6, dessa forma, ajustando algumas imagens que foram utilizadas no
 decorrer da aula.
+
+
